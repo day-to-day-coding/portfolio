@@ -7,12 +7,12 @@
     "educations",
     "interests"
   ],
-  "name": "Full Name",
+  "name": "Yellow Flash",
   "profilePicture": "profile.jpg",
-  "title": "Software Developer",
+  "title": "HOkage",
   "quote": "The best way you can predict the future is to create it.",
-  "summary": "Software engineer with 5+ years experience in commercial application development. Eager to join XYZ Inc. to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach. In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 35% when resolved.",
-  "currentCompany": "ABC",
+  "summary": "hokage of leaf village",
+  "currentCompany": "Fire nation",
   "location": "India",
   "educations": [
     {
@@ -57,7 +57,7 @@
     }
   ],
   "links": [
-    { "email": "hello@world.com", "color": "black" },
+    { "docker": "hello@world.com", "color": "blue" },
     { "website": "https://schadokar.github.io/portfolio" },
     { "twitter": "https://twitter.com/username", "color": "blue" },
     { "linkedin": "https://linkedin.com/in/username", "color": "blue" },
